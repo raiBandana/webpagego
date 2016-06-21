@@ -1,0 +1,58 @@
+/*!
+Free Bootstrap Themes : http://www.365bootstrap.com
+ */
+ 
+/* ---------------------------------------------------------------------------- */
+/* ------------------------------------Html-Body------------------------------- */
+/* ---------------------------------------------------------------------------- */
+html, body {width:100%; padding:0; margin:0;}
+body {background: #ffffff; color: #333333;font-size: 16px; font-family: Arial, Helvetica, sans-serif}
+
+/* ---------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------- */
+html { -webkit-text-size-adjust: none;}
+.video embed,.video object,.video iframe { width: 100%;  height: auto;}
+img{max-width:100%;	height: auto;width: auto\9; /* ie8 */}
+
+a{color: #337AC6;text-decoration: none;}
+a:hover {opacity: 0.9; text-decoration: none;}
+
+h1 {font-size: 55px;}
+h2 {font-size: 45px;}
+h3 {font-size: 30px;}
+h4 {font-size: 25px;}
+h5 {font-size: 20px;}
+
+.clear{content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+.clearfix:after, .clearfix:before{clear: both; content: '\0020'; display: block; visibility: hidden; width: 0; height: 0;}
+/* ---------------------------------------------------------------------------- */
+/* --------------------------------------Nav----------------------------------- */
+/* ---------------------------------------------------------------------------- */
+.navbar-brand {margin-bottom: 30px;} 
+.navbar-nav {margin-top: 15px
+			}
+/* ---------------------------------------------------------------------------- */
+/* -------------------------------------Content-------------------------------- */
+/* ---------------------------------------------------------------------------- */
+#page-content{margin: 100px 0 50px 0;}
+/* ----------------- */
+/* ---MainContent--- */
+#main-content {margin-bottom: 30px;}
+
+article{background:#ffffff;margin-bottom:30px;}
+article:after, article:before{clear: both; content: '\0020'; display: block; visibility: hidden; width: 0; height: 0;}
+
+article .art-header{padding: 5px 0px;}
+
+article .entry-title {margin: 10px 0 30px 0;}
+article .entry-title h2{line-height: 1.2;font-size: 38px;margin-top: 0;}
+article .excerpt {background:#eee;padding: 20px;margin-bottom: 20px;}
+article .excerpt p{color: #888;}
+
+/* ---------------------------------------------------------------------------- */
+/* -------------------------------------Footer--------------------------------- */
+/* ---------------------------------------------------------------------------- */
+footer {}
+footer .wrap-footer {padding-bottom: 50px;}
+
